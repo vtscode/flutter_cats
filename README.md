@@ -1,6 +1,7 @@
 # flutter_learn_architecture
 
 A new Flutter application.
+<p align="center"><a href="https://i.ibb.co/sgW2mrm/photo-2020-10-10-15-12-33.jpg" target="_blank"><img src="https://i.ibb.co/sgW2mrm/photo-2020-10-10-15-12-33.jpg"></a></p>
 
 ## Getting Started
 
